@@ -43,6 +43,15 @@ nano config.json
 ```
 CTRL + c
 ```
+4. Auto run
+```
+cd && cd && cd && nano ../usr/etc/bash.bashrc
+```
+next
+```
+cd ccminer/&&./start.sh
+```
+
 # Tips & Tricks:
 - If Termux can't complete update & upgrade please clear app cache and data.
 - Disable battery manager, battery optimization for Termux app.
